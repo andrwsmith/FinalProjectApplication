@@ -114,9 +114,10 @@
     exampleLetterCard.alpha = 0;
     [self addChild:exampleLetterCard];
     
-    // Fade in all labels and sprites
+    
     SKAction *fadeIn = [SKAction fadeInWithDuration:0.5];
     
+    // Fade in all labels and sprites
     [titleLabel runAction:fadeIn];
     [mainText runAction:fadeIn];
     [mainText2 runAction:fadeIn];
