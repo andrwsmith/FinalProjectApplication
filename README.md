@@ -1,5 +1,5 @@
 # FinalProjectApplication
-My Final Project assignment for University - an iOS application created in XCode designed to aid users in learning to read music notation
+My Final Project assignment for University - an iOS application created in XCode's SpriteKit framework using Objective-C, designed to aid users in learning to read music notation.
 
 HOW TO USE:
 1. Download .zip file and unzip contents
